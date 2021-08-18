@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on Django (backend)
 - 📫 How to reach me zubair1714@gmail.com
 
+#   <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="Python Logo" width="50" height="50"/>
+
+![Zubair's Github Stats](https://github-readme-stats.vercel.app/api?username=emzubair&show_icons=true_color=fff&icon_color=C4C4C4&text_color=C4C4C4&bg_color=151515)
+
 # 🧰 Toolbox
 
 <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/pycharm-1.svg" alt="PyCharm Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="JQuery Logo" width="50" height="50"/>
