@@ -13,24 +13,9 @@
 
   ![Zubair's Github Stats](https://github-readme-stats.vercel.app/api?username=emzubair&show_icons=true_color=fff&icon_color=C4C4C4&text_color=C4C4C4&bg_color=151515)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emzubair&theme=neon-dark)](https://git.io/streak-stats)
-
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=emzubair&theme=onedark">
-
-
-<strong>🚀 My Latest Update :</strong><br><br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emzubair&layout=compact&theme=radical)](https://github.com/emzubair/emzubair)
-![Zubair's github stats](https://github-readme-stats.vercel.app/api/pin/?username=emzubair&repo=emzubair&theme=radical)
 
 ## Profile visits since Sep 21 :gem:
 
 ![Visitor Count](https://profile-counter.glitch.me/emzubair/count.svg)
 
-
-
-
-<!---
-emzubair/emzubair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
