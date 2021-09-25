@@ -13,7 +13,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emzubair&layout=compact&theme=radical)](https://github.com/emzubair/emzubair)
 
-## Profile visits since Sep 21 :gem:
-
-![Visitor Count](https://profile-counter.glitch.me/emzubair/count.svg)
-
