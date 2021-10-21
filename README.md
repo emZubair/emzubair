@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emzubair
-- 👀 I’m interested in Django & Django REST Framework, previously worked on iOS Application Development.
+- 👀 I’m interested in Django & Django REST Framework, previously worked as iOS Application Developer.
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Django (backend)
 - 📫 How to reach me zubair1714@gmail.com
